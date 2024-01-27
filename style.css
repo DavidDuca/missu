@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding:0;
+  font-family:arial;
+}
+
+.main-container{
+  display:inline-block;
+  text-align:center;
+  height:100vh;
+  width:100vw;
+}
+
+.myHeader{
+  position:relative;
+  top:5vh;
+}
+i{
+  position:relative;
+  top: 10vh;
+  color:black;
+  font-size:50px;
+  cursor:pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+audio{
+  display:none;
+}
+
+img{
+  display:none;
+  width:40%;
+  height:30%;
+  margin:0;
+  padding:0;
+  position:relative;
+  top:10%;
+}
+
+
+.footer{
+  text-align:center;
+}
